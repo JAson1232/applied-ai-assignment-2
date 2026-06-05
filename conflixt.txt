@@ -1,1 +1,1 @@
-conflict, will be changing the line
+line has changed in a different way than last time
